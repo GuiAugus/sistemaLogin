@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Augus\\source\\repos\\sistemaLogin\\sistemaLogin\\sistemaLogin.csproj": {}
+    "C:\\Users\\Augus\\OneDrive\\Desktop\\Projects\\sistemaLogin\\sistemaLogin\\sistemaLogin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Augus\\source\\repos\\sistemaLogin\\sistemaLogin\\sistemaLogin.csproj": {
+    "C:\\Users\\Augus\\OneDrive\\Desktop\\Projects\\sistemaLogin\\sistemaLogin\\sistemaLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Augus\\source\\repos\\sistemaLogin\\sistemaLogin\\sistemaLogin.csproj",
+        "projectUniqueName": "C:\\Users\\Augus\\OneDrive\\Desktop\\Projects\\sistemaLogin\\sistemaLogin\\sistemaLogin.csproj",
         "projectName": "sistemaLogin",
-        "projectPath": "C:\\Users\\Augus\\source\\repos\\sistemaLogin\\sistemaLogin\\sistemaLogin.csproj",
+        "projectPath": "C:\\Users\\Augus\\OneDrive\\Desktop\\Projects\\sistemaLogin\\sistemaLogin\\sistemaLogin.csproj",
         "packagesPath": "C:\\Users\\Augus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Augus\\source\\repos\\sistemaLogin\\sistemaLogin\\obj\\",
+        "outputPath": "C:\\Users\\Augus\\OneDrive\\Desktop\\Projects\\sistemaLogin\\sistemaLogin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Augus\\AppData\\Roaming\\NuGet\\NuGet.Config",

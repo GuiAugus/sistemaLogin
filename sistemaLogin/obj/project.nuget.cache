@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TI9jvNgZ+t0=",
+  "dgSpecHash": "sGD7HLXVgro=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Augus\\source\\repos\\sistemaLogin\\sistemaLogin\\sistemaLogin.csproj",
+  "projectFilePath": "C:\\Users\\Augus\\OneDrive\\Desktop\\Projects\\sistemaLogin\\sistemaLogin\\sistemaLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Augus\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Augus\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
